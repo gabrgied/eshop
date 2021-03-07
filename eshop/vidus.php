@@ -86,7 +86,6 @@ session_unset();
 <HTML>
 <HEAD>
 <TITLE>Parduotuvė</TITLE>
- <meta http-equiv="Location" content="atsijungti.php">
 <link href="style.css" type="text/css" rel="stylesheet" />
 </HEAD>
 <BODY>
